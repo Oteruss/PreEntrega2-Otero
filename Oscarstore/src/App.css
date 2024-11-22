@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(217, 217, 217, 0.574);
+}
+
+
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1;
+    font-size: 1rem;
+    color: darkslategray;
+}
+a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1;
+    font-size: 1rem;
+    color: darkslategray;
+}
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    color: rgb(251, 0, 255);
+}
+h1:hover {
+    color: rgb(5, 19, 213);
+}
+
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: darkslategray;
+}
+h3 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    color: darkslategray;
+}
+
+div {
+    margin: 3rem;
+}

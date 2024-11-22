@@ -1,0 +1,23 @@
+.cardProducto {
+    background-color: aliceblue;
+    border-radius: 16px;
+    padding: 3rem;
+    margin: .5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cardProducto img {
+    width: 150px;
+}
+
+.btn {
+    background-color: brown;
+    color: azure;
+    padding: 1rem;
+    border-radius: 8px;
+    border: none;
+    text-decoration: none;
+
+}
